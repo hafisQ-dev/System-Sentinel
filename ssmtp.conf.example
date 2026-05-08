@@ -1,0 +1,11 @@
+
+####example of ssmtp config settings
+
+
+root=youremail@gmail.com
+mailhub=smtp.gmail.com:587
+AuthUser=youremail@gmail.com
+AuthPass=****************
+UseSTARTTLS=YES
+hostname=System-Sentinel
+FromLineOverride=YES
